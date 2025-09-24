@@ -6,33 +6,29 @@
 
 <br/>
 <br/>
- I'm Md Saiful Islam, a passionate self-taught full stack web developer from Bangladesh.
- <br/>
- - 🔭 Currently I am working as a Software Engineer at Aman Group in Laravel , Vue Js React js & MySql ,Ms Sql Server Stack.
-<br/>
-- 🔭Laravel Full Stack Developer
-At Sycorax Unisoft Ltd
-A full stack web developer is a person who can develop both client and server software. In addition to mastering HTML CSS PHP
-LARAVEL JAVASCRIPT JQUERY AJAX
-<br/>
--Full Stack Developer (Laravel+Vue Js)
+I’m a self-taught Full Stack Web Developer from Bangladesh, specializing in building scalable and efficient web applications with Laravel, Vue.js, React.js, MySQL, and MS SQL Server.
 
-At Datatrix Soft Ltd
-At DataTrix Soft Ltd A full stack web developer is a person who can develop both client and server software. I have strong
-knowledge Php, Laravel, Livewire, javascript, Jquery, Ajax, Vue Js, Json , Rest Api, Sass, Aws etc
-<br/>
-Laravel Backend Developer
-At Havilo Bistro (Outsourcing) Canada
-A full stack web developer is a person who can develop both client and server software. I have strong knowledge Php, Laravel,
-Livewire, javascript, Jquery, Ajax, Vue Js, Json , Rest Api, Sass, Aws etc
-<br/>
+🌟 Experience
 
-- 🌱 I,m a programming lover, When i get some free time I always try to learn New technology, Some times I solve problem in various Online Judge.
-<br/>
-- 🌱 I'm currently learning React Js, Type Script and Inertia Js
-<br/>
-- 💬 Ask me about anything <a href="https://github.com/saifulislam142348">Here!</a> 
+Software Engineer – Aman Group
+Building enterprise-level applications using Laravel, Vue.js, React.js, and SQL Server.
 
+Full Stack Developer – Sycorax Unisoft Ltd & Datatrix Soft Ltd
+Developed end-to-end solutions: frontend, backend, APIs, and integrations. Skilled in PHP, Laravel, Vue.js, Livewire, JavaScript, jQuery, AJAX, JSON, REST APIs, SASS, AWS.
+
+Laravel Backend Developer – Havilo Bistro (Outsourcing, Canada)
+Designed robust backend systems, optimized queries, and implemented secure APIs.
+
+🚀 Passion & Growth
+
+I love coding and continuously learning new technologies. I enjoy problem-solving on online judges and experimenting with innovative solutions in my free time.
+
+🛠️ Skills
+
+Backend: PHP, Laravel, Livewire, REST API
+Frontend: Vue.js, React.js, JavaScript, jQuery, AJAX
+Database: MySQL, MS SQL Server
+Tools & Others: AWS, JSON, SASS
 
 **Languages and Tools:** 
 
