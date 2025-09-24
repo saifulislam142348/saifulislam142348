@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://almahfuz.com/">Mahfuz!</a>  👋
+### Hi there, I'm <a href="#">Md Saiful Islam!</a>  👋
 
 <a href="https://www.linkedin.com/in/saiful-islam-8584291a2/">
   <img align="left" alt="md saiful islam | Linked In" width="21px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" />
@@ -10,10 +10,23 @@
  <br/>
  - 🔭 Currently I am working as a Software Engineer at Aman Group in Laravel , Vue Js React js & MySql ,Ms Sql Server Stack.
 <br/>
-- 🔭 I worked as an ERP dveloper and TEAM LEAD of implimentation team at MBM Group (2021-2023). I have developed MERCHANDISING, COMMERCIAL and STORE Module using Laravel , Vue Js , React js & MySql Ms Sql Server and implimented the softwore to the end user by completing USER ACCEPTENCE TEST and BETA TEST.
+- 🔭Laravel Full Stack Developer
+At Sycorax Unisoft Ltd
+A full stack web developer is a person who can develop both client and server software. In addition to mastering HTML CSS PHP
+LARAVEL JAVASCRIPT JQUERY AJAX
 <br/>
-- 🔭 I worked as a LARAVEL dveloper at Buy & Bazaar(2020-2021). I developed ECOMMERCE APPLICATION using Laravel , JQuery,Ajax & MySql.
+-Full Stack Developer (Laravel+Vue Js)
+
+At Datatrix Soft Ltd
+At DataTrix Soft Ltd A full stack web developer is a person who can develop both client and server software. I have strong
+knowledge Php, Laravel, Livewire, javascript, Jquery, Ajax, Vue Js, Json , Rest Api, Sass, Aws etc
 <br/>
+Laravel Backend Developer
+At Havilo Bistro (Outsourcing) Canada
+A full stack web developer is a person who can develop both client and server software. I have strong knowledge Php, Laravel,
+Livewire, javascript, Jquery, Ajax, Vue Js, Json , Rest Api, Sass, Aws etc
+<br/>
+
 - 🌱 I,m a programming lover, When i get some free time I always try to learn New technology, Some times I solve problem in various Online Judge.
 <br/>
 - 🌱 I'm currently learning React Js, Type Script and Inertia Js
